@@ -1,2 +1,2 @@
 # webproject-js
-Practicing JavaScript in the coding class.
+Practicing JavaScript along with HTML & CSS in the coding class using projects.
